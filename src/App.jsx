@@ -8,7 +8,7 @@ function App() {
   });
 
   return (
-    <div className="flex flex-col justify-center items-center h-screen bg-[#F7EED3] font-serif border-4 border-green-400">
+    <div className="flex flex-col justify-center items-center h-screen bg-[#F7EED3] font-serif">
       <h1 className="mb-6 text-[38px]">Map</h1>
           <CounterOfPins />
         <MapBox />
